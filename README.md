@@ -2,7 +2,7 @@
 Replicating the [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch without looking at its code, all in less than 7 days.
 
 Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBased, RetrieveOnly
-Credited every stackoverflow question I did search up, everything else was from scratch.
+Note: I Credited every stackoverflow question I did search up, everything else was from scratch.
 
 Learned (intuitively understood, not just memorize & paste some code):
 - the basics: panda dataframe manipulation, pytorch sequence2sequence neural networks
