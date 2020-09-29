@@ -1,5 +1,5 @@
-# [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) Paper Replicate
-Replicating the [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch without looking at its code, all in less than 7 days.
+# Implementing a State-of-the-art NLP Style Transfer Paper from Scratch - [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437)
+Implemented the [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch without looking at its code, all in less than 7 days.
 
 Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBased, RetrieveOnly
 Note: I Credited every stackoverflow question I did search up, everything else was from scratch.
