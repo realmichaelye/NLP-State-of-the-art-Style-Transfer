@@ -5,7 +5,6 @@ Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBa
 Note: I Credited every stackoverflow question I did search up, everything else was from scratch.
 
 Learned (intuitively understood, not just memorize & paste some code):
-- the basics: panda dataframe manipulation, pytorch sequence2sequence neural networks
 - efficient ngrams generation
 - Became efficient @ using python Counter objs
 - TF-IDF (in this case TF-IDF word overlap distance function)
