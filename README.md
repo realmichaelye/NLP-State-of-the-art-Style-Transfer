@@ -6,7 +6,6 @@ Goal of this is to build everything from scratch (including e.g. ngram generatio
 
 Learned (intuitively understood from first principles, not just memorize & paste some code):
 - efficient ngrams generation
-- Became efficient @ using python Counter objs
 - TF-IDF (in this case TF-IDF word overlap distance function)
 - style embeddings
 - concatening latent space with embeddings
