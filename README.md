@@ -1,7 +1,7 @@
 # Implementing a State-of-the-art NLP Style Transfer Paper from Scratch - [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437)
 Implemented the state-of-the-art style transfer [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch.
 
-Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBased, RetrieveOnly
+Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBased, RetrieveOnly.
 Goal of this is to build everything from scratch (including e.g. ngram generation, beam search algorithms, etc...) with minimal help from the internet.
 
 Learned (intuitively understood from first principles, not just memorize & paste some code):
