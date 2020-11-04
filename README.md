@@ -1,10 +1,10 @@
 # Implementing a State-of-the-art NLP Style Transfer Paper from Scratch - [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437)
-Implemented the [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch without looking at its code, all in less than 7 days.
+Implemented the state-of-the-art style transfer [Delete Retrieve Generate](https://arxiv.org/abs/1804.06437) paper from scratch.
 
 Implemented all 4 models in the paper: DeleteOnly, DeleteAndRetrieve, TemplateBased, RetrieveOnly
-Note: I Credited every stackoverflow question I did search up, everything else was from scratch.
+Goal of this is to build everything from scratch (including e.g. ngram generation, beam search algorithms, etc...) with minimal help from the internet.
 
-Learned (intuitively understood, not just memorize & paste some code):
+Learned (intuitively understood from first principles, not just memorize & paste some code):
 - efficient ngrams generation
 - Became efficient @ using python Counter objs
 - TF-IDF (in this case TF-IDF word overlap distance function)
